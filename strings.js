@@ -22,5 +22,5 @@ console.log(mensagem5);
 //exercício
 
 let usuario = prompt("Qual é o seu nome?");
-alert(`${usuario}, bem vinda!je`);
+alert(`${usuario}, bem vinda!`);
 console.log(usuario);
